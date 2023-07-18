@@ -11,8 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("branch4作成しました")
-        print("branch4で追加しました")
+        print("branch5に書き換えました")
         print("")
     }
 }
