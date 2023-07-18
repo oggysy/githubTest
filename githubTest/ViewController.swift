@@ -12,6 +12,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // branch6の変更1 変更2
+        // branch7の変更1
     }
 }
 
