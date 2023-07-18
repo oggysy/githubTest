@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print("branch1作成しました")
+        print("branch2作成")
     }
 }
 
